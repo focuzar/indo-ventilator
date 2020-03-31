@@ -8,7 +8,7 @@ Scalable (bulk) production could be done with minimal skilled workers, namely, a
 
 ⚠️ **WE DO NOT YET GUARANTEE THE OPERATION OF THIS MACHINE | THIS MACHINE IS FOR EMERGENCY and HEALTH SYSTEM COLLAPSE SCENARIOS**
 
-# Demo Showcasse Video
+# Demo Showcase Video
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ouVc6szvl00/0.jpg)](http://www.youtube.com/watch?v=ouVc6szvl00 "Video Title")
 
