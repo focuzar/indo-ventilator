@@ -10,7 +10,7 @@ Scalable (bulk) production could be done with minimal skilled workers, namely, a
 
 # Demo Showcase Video
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/ouVc6szvl00/0.jpg)](http://www.youtube.com/watch?v=ouVc6szvl00 "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ouVc6szvl00/0.jpg)](http://www.youtube.com/watch?v=ouVc6szvl00 "Indo-Ventilator Demonstration")
 
 # Components Used
 
