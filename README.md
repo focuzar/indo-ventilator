@@ -33,3 +33,8 @@ The component selection is done considering the readily available components. Th
 * **Architecture diagram** Status: Yet to start
 * **3D model based instruction** Status: Yet to start
 * **Testing on Lung Simulators** Status: Looking for collaborators
+
+# Thanks
+Thanks for the contribution in terms of time and knowledge. Mr. Kuppan, Mr. Suresh, Dr. Srinivasan, Mr. Arun Prasath, Mr. Senthil Anand, Dr. Madhukar, Dr. Sobha, Dr. Sarad, Mr. Dillibabu.
+
+FocuzAR, FocuzIoT, TechieBros.
