@@ -35,6 +35,6 @@ The component selection is done considering the readily available components. Th
 * **Testing on Lung Simulators** Status: Looking for collaborators
 
 # Thanks
-Thanks for the contribution in terms of time and knowledge. Mr. Kuppan, Mr. Suresh, Dr. Srinivasan, Mr. Arun Prasath, Mr. Senthil Anand, Dr. Madhukar, Dr. Sobha, Dr. Sarad, Mr. Dillibabu.
+Thanks for the contribution in terms of time and knowledge. Mr. Kuppan, Mr. Suresh, Dr. Srinivasan, Mr. Arun Prasath, Mr. Senthil Anand, Dr. Madhukar, Dr. Sobha, Dr. Sarad, Mr. Dillibabu, Dr Rajamurali.
 
 FocuzAR, FocuzIoT, TechieBros.
